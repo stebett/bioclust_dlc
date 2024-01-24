@@ -1,11 +1,9 @@
-import os
 import shutil
 import subprocess
 from pathlib import Path
 
 jord_server = "jord.biologie.ens.fr"
 bioclust_server = "bioclusts01.bioclust.biologie.ens.fr"
-
 
 
 def main(script_directory):
@@ -24,8 +22,8 @@ def main(script_directory):
 
     remote_project_path = copy_project_to_remote(user, local_project_path, remote_path)
     modify_dlc_project_path(user, local_project_path, remote_project_path)
-    remote_task_path = upload_task(user, script_directory, remote_project_path, task_path)
-    modify_task_project_path(user, script_directory, remote_project_path, task_path, remote_task_path)
+    remote_task_path = upload_task(user, remote_project_path, task_path)
+    modify_task_project_path(user, remote_project_path, task_path, remote_task_path)
     grant_permissions(user, jord_server, remote_task_path)
     clean_logs(user, jord_server, remote_task_path)
     submit_jobs(user, jord_server, bioclust_server, remote_task_path)
@@ -38,9 +36,11 @@ def get_user_input(prompt, default_value):
         user_input = input(f"{prompt}: ")
     return user_input
 
+
 def save_to_file(data, filename):
     with open(filename, 'w') as file:
         file.write(data)
+
 
 def read_from_file(filename):
     try:
@@ -48,6 +48,7 @@ def read_from_file(filename):
             return file.read().strip()
     except FileNotFoundError:
         return None
+
 
 def load_ask_save(prompt, filename):
     default_value = read_from_file(filename)
@@ -63,10 +64,12 @@ def grant_permissions(username, server, task_path_on_cluster):
                    f"chmod a+x ~/bash-script.sh && "
                    f"mv ~/bash-script.sh {task_path_on_cluster}/bash-script.sh'", shell=True, check=True)
 
+
 def clean_logs(username, server, task_path_on_cluster):
     print("[*] Cleaning logs")
     subprocess.run(f"ssh {username}@{server} '"
                    f"rm -rf {task_path_on_cluster}/logs'", shell=True, check=True)
+
 
 def submit_jobs(username, server, bioclust, task_path_on_cluster):
     print("[*] Submitting jobs")
@@ -78,28 +81,27 @@ def submit_jobs(username, server, bioclust, task_path_on_cluster):
                    f"less logs/stderr'", shell=True, check=True)
 
 
-
-
 def list_tasks(script_directory):
     # List all task directories in the script directory
     script_directory = Path(script_directory).resolve()
     tasks = [d for d in script_directory.iterdir() if d.is_dir() and d.name.startswith('task-')]
-    
+
     if not tasks:
         print("No task directories found.")
         return None
-    
+
     print("Select a task:")
     for i, task in enumerate(tasks, 1):
         print(f"{i}. {task.name}")
-    
+
     selected_index = int(input("Enter the number corresponding to the task: ")) - 1
-    
+
     if 0 <= selected_index < len(tasks):
         return tasks[selected_index]
     else:
         print("Invalid selection. Exiting.")
         return None
+
 
 def copy_project_to_remote(username, local_project_path, remote_path):
     print("[*] Copying dlc project to remote")
@@ -107,11 +109,12 @@ def copy_project_to_remote(username, local_project_path, remote_path):
     subprocess.run(rsync_command, shell=True, check=True)
     return Path(remote_path) / local_project_path.name
 
+
 def modify_dlc_project_path(username, local_project_path, remote_project_path):
     print("[*] Updating remote project path")
     # Modify DLC project path in config file
     config_path = Path(local_project_path) / 'config.yaml'
-    tmp_config_path = shutil.copy(config_path, Path('/tmp') / config_path.name)  
+    tmp_config_path = shutil.copy(config_path, Path('/tmp') / config_path.name)
 
     # Modify the DLC project path in the temporary config file
     with tmp_config_path.open(mode='r') as tmp_config_file:
@@ -132,15 +135,16 @@ def modify_dlc_project_path(username, local_project_path, remote_project_path):
     tmp_config_path.unlink()
 
 
-def upload_task(username, script_directory, remote_project_path, task_path):
+def upload_task(username, remote_project_path, task_path):
     print("[*] Copying task files")
     rsync_command = f"rsync -r --update {task_path} {username}@{jord_server}:{remote_project_path.parent}"
     subprocess.run(rsync_command, shell=True, check=True)
     return remote_project_path.parent / task_path.name
 
-def modify_task_project_path(username, script_directory, remote_project_path, local_task_path, remote_task_path):
+
+def modify_task_project_path(username, remote_project_path, local_task_path, remote_task_path):
     print("[*] Updating task files")
-    tmp_config_path = shutil.copy(local_task_path / "python-script.py", Path('/tmp') / local_task_path.name)  
+    tmp_config_path = shutil.copy(local_task_path / "python-script.py", Path('/tmp') / local_task_path.name)
     # Modify the DLC project path in the temporary config file
     with tmp_config_path.open(mode='r') as tmp_config_file:
         config_lines = tmp_config_file.readlines()
@@ -164,6 +168,5 @@ def modify_task_project_path(username, script_directory, remote_project_path, lo
 
 if __name__ == "__main__":
     # Get the directory where the script is located
-    script_directory = Path(__file__).resolve().parent
-    main(script_directory)
-
+    base_directory = Path(__file__).resolve().parent
+    main(base_directory)

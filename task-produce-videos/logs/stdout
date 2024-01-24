@@ -1,6 +1,0 @@
-DLC loaded in light mode; you cannot use any GUI (labeling, relabeling and standalone GUI)
-Starting to process video: /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_1-sb007-2023-01-26/videos/sb007_2022-11-16_block_4_video_cam_1_ultrafast.mp4
-Loading /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_1-sb007-2023-01-26/videos/sb007_2022-11-16_block_4_video_cam_1_ultrafast.mp4 and data.
-Duration of video [s]: 60.02, recorded with 100.0 fps!
-Overall # of frames: 6002 with cropped frame dimensions: 1024 768
-Generating frames and creating video.

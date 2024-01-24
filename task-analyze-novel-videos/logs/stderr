@@ -1,7 +1,0 @@
-/users/nbc/bettani/.conda/envs/deeplabcut/lib/python3.8/site-packages/statsmodels/compat/pandas.py:65: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
-  from pandas import Int64Index as NumericIndex
-/users/nbc/bettani/.conda/envs/deeplabcut/lib/python3.8/site-packages/deeplabcut/__init__.py:78: UserWarning: 
-        As PyTorch is not installed, unsupervised identity learning will not be available.
-        Please run `pip install torch`, or ignore this warning.
-        
-  warnings.warn(

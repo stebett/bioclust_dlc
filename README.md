@@ -7,6 +7,7 @@
 - You must have extracted and labeled some frames
 - You must have copied the videos in the DLC project folder (it's a parameter in the *create_project* function)
 - You must have installed rsync 
+- You may have to set up no-password connection to jord and bioclust
 
 ## Instructions
 #### What do you have to do

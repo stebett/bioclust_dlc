@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+
+set -e
+
+# Base variables
+server="bettani@jord.biologie.ens.fr"
+bioclust="bettani@bioclusts01.bioclust.biologie.ens.fr"
+base="/kingdoms/nbc/workspace28/bettani/deeplabcut"
+
+# Task to execute on the server
+# Each task has its own submission file and script, in the form submission-[task].sub and script-task.sh
+task=$1
+echo -e "\n[*] Selected task: $task"
+
+# Give permissions
+echo -e "\n[*] Getting permission to execute"
+ssh $server "cd $base
+mv $base/cluster/$task/script-$task.sh ~
+chmod a+x ~/script-$task.sh
+mv ~/script-$task.sh $base/cluster/$task
+"
+
+# Submit (need to cd otherwise initialDir doesn't work)
+echo -e "\n[*] Submitting jobs"
+ssh -J $server $bioclust "cd $base/cluster/$task
+mkdir -p logs
+condor_submit "submission-$task.sub"
+condor_wait logs/log
+curl -d @logs/stdout ntfy.sh/ginko
+"
+curl -d "Cluster job $task is finished" ntfy.sh/ginko

@@ -1,0 +1,19 @@
+executable          = script-analyze-novel-videos.sh
+
+output              = logs/stdout
+error               = logs/stderr
+log                 = logs/log
+
+request_cpus        = 1
+request_memory      = 5G
+request_gpus        = 1
+
+concurrency_limits  = bettani_limit:72
+
+accounting_group    = LongJob.Weekly
+
+requirements        = (TARGET.Machine == "gpuclust01.bioclust.biologie.ens.fr")
+
+getenv              = true
+
+queue

@@ -1,0 +1,1979 @@
+DLC loaded in light mode; you cannot use any GUI (labeling, relabeling and standalone GUI)
+Using snapshot-1030000 for model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/dlc-models/iteration-0/5_points_tracking_cam_2Feb28-trainset95shuffle1
+Analyzing all the videos in the directory...
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_6_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_6_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  360.06 , recorded with  100.0 fps!
+Overall # of frames:  36006  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_11_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_11_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_16_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_16_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_12_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_12_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-12_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-12_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-20_block_1_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-20_block_1_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_10_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_10_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_8_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_8_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_14_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_14_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_3_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_3_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.03 , recorded with  100.0 fps!
+Overall # of frames:  6003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_6_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_6_video_cam_2_ultrafast.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_4_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_4_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.02 , recorded with  100.0 fps!
+Overall # of frames:  6002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-18_block_2_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-18_block_2_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  240.06 , recorded with  100.0 fps!
+Overall # of frames:  24006  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-06_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-06_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-06_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-06_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_8_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_8_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_11_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_11_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.02 , recorded with  100.0 fps!
+Overall # of frames:  6002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_8_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_8_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.02 , recorded with  100.0 fps!
+Overall # of frames:  6002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_13_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_13_video_cam_2_ultrafast.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_3_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_3_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_6_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_6_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-20_block_7_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-20_block_7_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_8_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_8_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  360.06 , recorded with  100.0 fps!
+Overall # of frames:  36006  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_5_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_5_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_6_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_6_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_6_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_6_video_cam_2_ultrafast.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-03_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-03_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  368.43 , recorded with  100.0 fps!
+Overall # of frames:  36843  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_6_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_6_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_1_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_1_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  333.73 , recorded with  100.0 fps!
+Overall # of frames:  33373  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_9_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_9_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_10_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_10_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_9_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_9_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_11_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_11_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-18_block_1_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-18_block_1_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  176.78 , recorded with  100.0 fps!
+Overall # of frames:  17678  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-11_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-11_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_14_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_14_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.03 , recorded with  100.0 fps!
+Overall # of frames:  6003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  298.14 , recorded with  100.0 fps!
+Overall # of frames:  29814  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-19_block_2_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-19_block_2_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  360.06 , recorded with  100.0 fps!
+Overall # of frames:  36006  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_12_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_12_video_cam_2_ultrafast.mp4
+Duration of video [s]:  359.36 , recorded with  100.0 fps!
+Overall # of frames:  35936  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  360.06 , recorded with  100.0 fps!
+Overall # of frames:  36006  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_17_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_17_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-11_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-11_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_9_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_9_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-20_block_8_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-20_block_8_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  326.38 , recorded with  100.0 fps!
+Overall # of frames:  32638  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_6_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_6_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_10_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_10_video_cam_2_ultrafast.mp4
+Duration of video [s]:  359.43 , recorded with  100.0 fps!
+Overall # of frames:  35943  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_12_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_12_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_6_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_6_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  360.06 , recorded with  100.0 fps!
+Overall # of frames:  36006  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.02 , recorded with  100.0 fps!
+Overall # of frames:  6002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-12_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-12_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_9_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_9_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.0 , recorded with  100.0 fps!
+Overall # of frames:  24000  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_8_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_8_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_10_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_10_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_8_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_8_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_6_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_6_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_2_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_2_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-12_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-12_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_13_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_13_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.02 , recorded with  100.0 fps!
+Overall # of frames:  6002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_9_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_9_video_cam_2_ultrafast.mp4
+Duration of video [s]:  360.06 , recorded with  100.0 fps!
+Overall # of frames:  36006  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_11_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_11_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_9_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_9_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_6_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_6_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  77.38 , recorded with  100.0 fps!
+Overall # of frames:  7738  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_6_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_6_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.02 , recorded with  100.0 fps!
+Overall # of frames:  6002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_14_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_14_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.02 , recorded with  100.0 fps!
+Overall # of frames:  6002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-30_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-30_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  360.06 , recorded with  100.0 fps!
+Overall # of frames:  36006  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_4_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_4_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.02 , recorded with  100.0 fps!
+Overall # of frames:  6002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_6_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_6_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_6_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_6_video_cam_2_ultrafast.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_6_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_6_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.03 , recorded with  100.0 fps!
+Overall # of frames:  6003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_9_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_9_video_cam_2_ultrafast.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-19_block_1_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-19_block_1_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  118.06 , recorded with  100.0 fps!
+Overall # of frames:  11806  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_8_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_8_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_6_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_6_video_cam_2_ultrafast.mp4
+Duration of video [s]:  51.64 , recorded with  100.0 fps!
+Overall # of frames:  5164  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_10_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_10_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_8_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_8_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_12_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_12_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_8_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_8_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.02 , recorded with  100.0 fps!
+Overall # of frames:  6002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  178.15 , recorded with  100.0 fps!
+Overall # of frames:  17815  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_14_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_14_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.03 , recorded with  100.0 fps!
+Overall # of frames:  6003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_2_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_2_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  120.01 , recorded with  100.0 fps!
+Overall # of frames:  12001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_9_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_9_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_8_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_8_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_8_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_8_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-03_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-03_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_8_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_8_video_cam_2_ultrafast.mp4
+Duration of video [s]:  304.2 , recorded with  100.0 fps!
+Overall # of frames:  30420  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-11_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-11_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_6_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_6_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.03 , recorded with  100.0 fps!
+Overall # of frames:  6003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_12_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_12_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-12_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-12_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_7_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_7_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_12_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_12_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_4_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_4_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_7_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_7_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.02 , recorded with  100.0 fps!
+Overall # of frames:  6002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_9_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_9_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_6_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_6_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_8_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_8_video_cam_2_ultrafast.mp4
+Duration of video [s]:  360.06 , recorded with  100.0 fps!
+Overall # of frames:  36006  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-06_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-06_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_16_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_16_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-03_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-03_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  240.04 , recorded with  100.0 fps!
+Overall # of frames:  24004  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_12_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_12_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_11_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_11_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.03 , recorded with  100.0 fps!
+Overall # of frames:  6003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_5_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_5_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  60.02 , recorded with  100.0 fps!
+Overall # of frames:  6002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  26.58 , recorded with  100.0 fps!
+Overall # of frames:  2658  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_1_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_1_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.02 , recorded with  100.0 fps!
+Overall # of frames:  6002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_4_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_4_video_cam_2_ultrafast.mp4
+Duration of video [s]:  59.09 , recorded with  100.0 fps!
+Overall # of frames:  5909  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_13_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_13_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-20_block_5_video_cam_2_h264_crf10.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-20_block_5_video_cam_2_h264_crf10.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_13_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_13_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_10_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_10_video_cam_2_ultrafast.mp4
+Duration of video [s]:  60.01 , recorded with  100.0 fps!
+Overall # of frames:  6001  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-11_block_2_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-11_block_2_video_cam_2_ultrafast.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_6_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_6_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  120.02 , recorded with  100.0 fps!
+Overall # of frames:  12002  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_5_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_5_video_cam_2_ultrafast.mp4
+Duration of video [s]:  180.03 , recorded with  100.0 fps!
+Overall # of frames:  18003  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_12_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_12_video_cam_2_ultrafast.mp4
+Duration of video [s]:  300.05 , recorded with  100.0 fps!
+Overall # of frames:  30005  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-06_block_3_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-06_block_3_video_cam_2_ultrafast.mp4
+Duration of video [s]:  420.07 , recorded with  100.0 fps!
+Overall # of frames:  42007  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+Starting to analyze %  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_14_video_cam_2_ultrafast.mp4
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_14_video_cam_2_ultrafast.mp4
+Duration of video [s]:  360.06 , recorded with  100.0 fps!
+Overall # of frames:  36006  found with (before cropping) frame dimensions:  1024 768
+Starting to extract posture
+Saving results in /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos...
+Saving csv poses!
+The videos are analyzed. Now your research can truly start! 
+ You can create labeled videos with 'create_labeled_video'
+If the tracking is not satisfactory for some videos, consider expanding the training set. You can use the function 'extract_outlier_frames' to extract a few representative outlier frames.
+Analyzing all the videos in the directory...
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_8_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_6_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_1_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-06_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-11_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_6_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-12_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_12_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_11_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_13_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_10_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_8_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_9_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_6_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_9_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-06_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_17_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_6_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_4_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_9_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_12_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_14_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_5_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_8_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_6_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_11_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-06_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_12_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-20_block_7_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-03_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_8_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_6_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_6_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_12_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-30_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_12_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-20_block_1_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_7_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_8_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_12_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_9_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-18_block_1_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_6_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_14_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_9_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_14_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_4_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_11_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_8_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_11_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_10_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_8_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_10_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-12_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_10_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_9_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_9_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-11_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_6_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-11_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_8_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-18_block_2_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_2_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-12_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_10_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_5_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-12_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_9_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_16_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_6_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_3_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-03_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_6_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_16_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_3_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_12_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-19_block_1_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_13_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-11_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_8_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_10_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-06_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_6_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_11_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_6_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_8_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_6_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-03_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_14_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_6_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_14_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-19_block_2_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_4_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_8_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-20_block_8_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_8_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_6_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_9_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_8_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_4_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_1_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_6_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_5_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_13_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_6_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_2_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_13_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_2_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-20_block_5_video_cam_2_h264_crf10.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_7_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_3_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Filtering with median model /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_12_video_cam_2_ultrafast.mp4
+Saving filtered csv poses!
+Analyzing all the videos in the directory...
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_11_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_8_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_9_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_9_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_14_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_11_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_12_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_6_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_17_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_6_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_6_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_4_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_14_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_9_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_14_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_10_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-11_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_10_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_12_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-11_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-03_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_10_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_12_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_8_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_6_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_10_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_9_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_12_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_8_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_8_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-06_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_5_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_8_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_16_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_13_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_6_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_6_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_8_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_1_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_6_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-03_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-19_block_1_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_4_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-06_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_9_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_14_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_6_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-20_block_7_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_6_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_6_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_14_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_12_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_4_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-30_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_10_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_2_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_8_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_8_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_12_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_12_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-11_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_6_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_6_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_11_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_8_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_11_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_8_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-20_block_1_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_9_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_13_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_8_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-12_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_3_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-06_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-26_block_9_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_6_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_6_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_6_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-06_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_6_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-12_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_6_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-20_block_5_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_2_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-18_block_2_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-25_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_5_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_16_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-12_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_11_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-11_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-01_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_12_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-07_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_8_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-02_block_8_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-10_block_2_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-03_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-19_block_2_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-08_block_9_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_5_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_13_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-04_block_6_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_9_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-20_block_8_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-05_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-18_block_1_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-17_block_10_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-28_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-09_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-23_block_3_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-22_block_1_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-21_block_3_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-12-12_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_4_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-27_block_13_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-16_block_7_video_cam_2_h264_crf10.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-29_block_7_video_cam_2_ultrafast.mp4 and data.
+Loading  /import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos/sb007_2022-11-24_block_5_video_cam_2_ultrafast.mp4 and data.
+Plots created! Please check the directory "plot-poses" within the video directory

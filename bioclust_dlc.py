@@ -14,15 +14,13 @@ def main(script_directory):
     if not task_path:
         return
 
+    #remember these parameters saving them in a local file, each time ask for them but ask if default want to be put instead by enteri
     # Input parameters
-    user = input("Enter your username to connect to jord: ")
-    local_project_path = Path(input("Enter the local path of the DLC project: ")).resolve()
-    remote_path = Path(input("Enter the working directory on the remote: ")) # Do not resolve, it's remote!
-
-    # Testing
-    user = "bettani"
-    local_project_path = Path("/mnt/d/ExperimentV2-StefanoBettani-2024-01-24").resolve()
-    remote_path = Path("/kingdoms/nbc/workspace29/bettani/dlc-projects")
+    user = load_ask_save("Enter your username to connect to jord", script_directory / ".username")
+    local = load_ask_save("Enter the local path of the DLC project", script_directory / ".local_proj")
+    local_project_path = Path(local).resolve()
+    remote = load_ask_save("Enter the working directory on the remote", script_directory / ".remote_proj")
+    remote_path = Path(remote).resolve()
 
     print("\n-----------------------\n")
 
@@ -31,10 +29,35 @@ def main(script_directory):
     remote_task_path = upload_task(user, script_directory, remote_project_path, task_path)
     modify_task_project_path(user, script_directory, remote_project_path, task_path, remote_task_path)
     grant_permissions(user, jord_server, remote_task_path)
+    clean_logs(user, jord_server, remote_task_path)
     submit_jobs(user, jord_server, bioclust_server, remote_task_path)
 
 
-# TODO: check if this can be done with --chmod flag in rsync
+def get_user_input(prompt, default_value):
+    if default_value is not None:
+        user_input = input(f"{prompt} (default: {default_value}): ") or default_value
+    else:
+        user_input = input(f"{prompt}: ")
+    return user_input
+
+def save_to_file(data, filename):
+    with open(filename, 'w') as file:
+        file.write(data)
+
+def read_from_file(filename):
+    try:
+        with open(filename, 'r') as file:
+            return file.read().strip()
+    except FileNotFoundError:
+        return None
+
+def load_ask_save(prompt, filename):
+    default_value = read_from_file(filename)
+    user_input = get_user_input(prompt, default_value)
+    save_to_file(user_input, filename)
+    return user_input
+
+
 def grant_permissions(username, server, task_path_on_cluster):
     print("[*] Getting permission to execute")
     subprocess.run(f"ssh {username}@{server} '"
@@ -42,13 +65,20 @@ def grant_permissions(username, server, task_path_on_cluster):
                    f"chmod a+x ~/bash-script.sh && "
                    f"mv ~/bash-script.sh {task_path_on_cluster}/bash-script.sh'", shell=True, check=True)
 
+def clean_logs(username, server, task_path_on_cluster):
+    print("[*] Cleaning logs")
+    subprocess.run(f"ssh {username}@{server} '"
+                   f"rm -rf {task_path_on_cluster}/logs'", shell=True, check=True)
+
 def submit_jobs(username, server, bioclust, task_path_on_cluster):
     print("[*] Submitting jobs")
     subprocess.run(f"ssh -J {username}@{server} {username}@{bioclust} '"
                    f"cd {task_path_on_cluster} && "
                    f"mkdir -p logs && "
                    f"condor_submit submission.sub && "
-                   f"condor_wait -echo logs/log'", shell=True, check=True)
+                   f"condor_wait -echo logs/log &&"
+                   f"less logs/stderr'", shell=True, check=True)
+
 
 
 
@@ -129,7 +159,7 @@ def modify_task_project_path(username, script_directory, remote_project_path, lo
 
     # Upload the modified config file to the server
     remote_script_path = remote_task_path / "python-script.py"
-    rsync_command = f"rsync --update --chmod=a+x {tmp_config_path} {username}@{jord_server}:{remote_script_path}"
+    rsync_command = f"rsync --update  {tmp_config_path} {username}@{jord_server}:{remote_script_path}"
     subprocess.run(rsync_command, shell=True, check=True)
 
     # Remove the temporary config file

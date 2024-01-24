@@ -27,3 +27,5 @@
 - Returns you the terminal once the process finished
 
 
+## Problems
+- Sometimes bioclusts likes to kick you from the server, especially if you are not on the same network

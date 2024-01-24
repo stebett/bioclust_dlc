@@ -120,7 +120,7 @@ def modify_task_project_path(username, script_directory, remote_project_path, lo
 
     for i, line in enumerate(config_lines):
         if line.strip().startswith('config_path = '):
-            config_lines[i] = f'config_path = {remote_project_path}/config.yaml\n'
+            config_lines[i] = f'config_path = "{remote_project_path}/config.yaml"\n'
             print("[*] Updated config_path in task script")
             break
 

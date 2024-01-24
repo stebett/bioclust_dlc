@@ -9,12 +9,10 @@ bioclust_server = "bioclusts01.bioclust.biologie.ens.fr"
 
 
 def main(script_directory):
-    # List tasks and let the user select one
     task_path = list_tasks(script_directory)
     if not task_path:
         return
 
-    #remember these parameters saving them in a local file, each time ask for them but ask if default want to be put instead by enteri
     # Input parameters
     user = load_ask_save("Enter your username to connect to jord", script_directory / ".username")
     local = load_ask_save("Enter the local path of the DLC project", script_directory / ".local_proj")
@@ -130,7 +128,6 @@ def modify_dlc_project_path(username, local_project_path, remote_project_path):
     # Upload the modified config file to the server
     rsync_command = f"rsync --update {tmp_config_path} {username}@{jord_server}:{remote_project_path}/config.yaml"
     subprocess.run(rsync_command, shell=True, check=True)
-
     # Remove the temporary config file
     tmp_config_path.unlink()
 
@@ -161,7 +158,6 @@ def modify_task_project_path(username, script_directory, remote_project_path, lo
     remote_script_path = remote_task_path / "python-script.py"
     rsync_command = f"rsync --update  {tmp_config_path} {username}@{jord_server}:{remote_script_path}"
     subprocess.run(rsync_command, shell=True, check=True)
-
     # Remove the temporary config file
     tmp_config_path.unlink()
 

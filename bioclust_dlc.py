@@ -21,7 +21,7 @@ def main(script_directory):
 
     # Testing
     user = "bettani"
-    local_project_path = Path("/home/ginko/prova/ExperimentV2-StefanoBettani-2024-01-24").resolve()
+    local_project_path = Path("/mnt/d/ExperimentV2-StefanoBettani-2024-01-24").resolve()
     remote_path = Path("/kingdoms/nbc/workspace29/bettani/dlc-projects")
 
     print("\n-----------------------\n")

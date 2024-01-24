@@ -1,4 +1,4 @@
-executable          = bash_script.sh
+executable          = bash-script.sh
 
 output              = logs/stdout
 error               = logs/stderr

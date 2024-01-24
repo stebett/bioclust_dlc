@@ -1,4 +1,4 @@
-executable          = script-filter-videos.sh
+executable          = bash_script.sh
 
 output              = logs/stdout
 error               = logs/stderr

@@ -129,7 +129,7 @@ def modify_task_project_path(username, script_directory, remote_project_path, lo
 
     # Upload the modified config file to the server
     remote_script_path = remote_task_path / "python-script.py"
-    rsync_command = f"rsync --update {tmp_config_path} {username}@{jord_server}:{remote_script_path}"
+    rsync_command = f"rsync --update --chmod=a+x {tmp_config_path} {username}@{jord_server}:{remote_script_path}"
     subprocess.run(rsync_command, shell=True, check=True)
 
     # Remove the temporary config file

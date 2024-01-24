@@ -11,6 +11,7 @@
 
 ## Instructions
 #### What do you have to do
+- Clone this repository
 - Update task script if needed with specifications (video names, ram to ask to bioclust, etc)
 - Run the program
 - Insert the project config path

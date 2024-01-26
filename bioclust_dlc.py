@@ -16,71 +16,18 @@ def main(script_directory):
     local = load_ask_save("Enter the local path of the DLC project", script_directory / ".local_proj")
     local_project_path = Path(local).resolve()
     remote = load_ask_save("Enter the working directory on the remote", script_directory / ".remote_proj")
-    remote_path = Path(remote).resolve()
+    remote_path = Path(remote)
 
     print("\n-----------------------\n")
 
     remote_project_path = update_remote_project(user, local_project_path, remote_path)
-    update_local_project(user, local_project_path, remote_path)
+    update_local_project(user, local_project_path, remote_project_path)
     modify_dlc_project_path(user, local_project_path, remote_project_path)
     remote_task_path = upload_task(user, remote_project_path, task_path)
     modify_task_project_path(user, remote_project_path, task_path, remote_task_path)
     grant_permissions(user, jord_server, remote_task_path)
     clean_logs(user, jord_server, remote_task_path)
     submit_jobs(user, jord_server, bioclust_server, remote_task_path)
-
-
-def get_user_input(prompt, default_value):
-    if default_value is not None:
-        user_input = input(f"{prompt} (default: {default_value}): ") or default_value
-    else:
-        user_input = input(f"{prompt}: ")
-    return user_input
-
-
-def save_to_file(data, filename):
-    with open(filename, 'w') as file:
-        file.write(data)
-
-
-def read_from_file(filename):
-    try:
-        with open(filename, 'r') as file:
-            return file.read().strip()
-    except FileNotFoundError:
-        return None
-
-
-def load_ask_save(prompt, filename):
-    default_value = read_from_file(filename)
-    user_input = get_user_input(prompt, default_value)
-    save_to_file(user_input, filename)
-    return user_input
-
-
-def grant_permissions(username, server, task_path_on_cluster):
-    print("[*] Getting permission to execute")
-    subprocess.run(f"ssh {username}@{server} '"
-                   f"mv {task_path_on_cluster}/bash-script.sh ~/bash-script.sh && "
-                   f"chmod a+x ~/bash-script.sh && "
-                   f"mv ~/bash-script.sh {task_path_on_cluster}/bash-script.sh'", shell=True, check=True)
-
-
-def clean_logs(username, server, task_path_on_cluster):
-    print("[*] Cleaning logs")
-    subprocess.run(f"ssh {username}@{server} '"
-                   f"rm -rf {task_path_on_cluster}/logs'", shell=True, check=True)
-
-
-def submit_jobs(username, server, bioclust, task_path_on_cluster):
-    print("[*] Submitting jobs")
-    subprocess.run(f"ssh -J {username}@{server} {username}@{bioclust} '"
-                   f"cd {task_path_on_cluster} && "
-                   f"mkdir -p logs && "
-                   f"condor_submit submission.sub && "
-                   f"condor_wait -echo logs/log &&"
-                   f"less logs/stderr'", shell=True, check=True)
-
 
 def list_tasks(script_directory):
     # List all task directories in the script directory
@@ -103,9 +50,9 @@ def list_tasks(script_directory):
         print("Invalid selection. Exiting.")
         return None
 
-def update_local_project(username, local_project_path, remote_path):
+def update_local_project(username, local_project_path, remote_project_path):
     print("[*] Updating local project")
-    rsync_command = f"rsync -a --update {username}@{jord_server}:{remote_path} {local_project_path} "
+    rsync_command = f"rsync -a --update {username}@{jord_server}:{remote_project_path} {local_project_path} "
     subprocess.run(rsync_command, shell=True, check=True)
 
 def update_remote_project(username, local_project_path, remote_path):
@@ -169,6 +116,59 @@ def modify_task_project_path(username, remote_project_path, local_task_path, rem
     subprocess.run(rsync_command, shell=True, check=True)
     # Remove the temporary config file
     tmp_config_path.unlink()
+
+
+
+def get_user_input(prompt, default_value):
+    if default_value is not None:
+        user_input = input(f"{prompt} (default: {default_value}): ") or default_value
+    else:
+        user_input = input(f"{prompt}: ")
+    return user_input
+
+
+def save_to_file(data, filename):
+    with open(filename, 'w') as file:
+        file.write(data)
+
+
+def read_from_file(filename):
+    try:
+        with open(filename, 'r') as file:
+            return file.read().strip()
+    except FileNotFoundError:
+        return None
+
+
+def load_ask_save(prompt, filename):
+    default_value = read_from_file(filename)
+    user_input = get_user_input(prompt, default_value)
+    save_to_file(user_input, filename)
+    return user_input
+
+
+def grant_permissions(username, server, task_path_on_cluster):
+    print("[*] Getting permission to execute")
+    subprocess.run(f"ssh {username}@{server} '"
+                   f"mv {task_path_on_cluster}/bash-script.sh ~/bash-script.sh && "
+                   f"chmod a+x ~/bash-script.sh && "
+                   f"mv ~/bash-script.sh {task_path_on_cluster}/bash-script.sh'", shell=True, check=True)
+
+
+def clean_logs(username, server, task_path_on_cluster):
+    print("[*] Cleaning logs")
+    subprocess.run(f"ssh {username}@{server} '"
+                   f"rm -rf {task_path_on_cluster}/logs'", shell=True, check=True)
+
+
+def submit_jobs(username, server, bioclust, task_path_on_cluster):
+    print("[*] Submitting jobs")
+    subprocess.run(f"ssh -J {username}@{server} {username}@{bioclust} '"
+                   f"cd {task_path_on_cluster} && "
+                   f"mkdir -p logs && "
+                   f"condor_submit submission.sub && "
+                   f"condor_wait -echo logs/log &&"
+                   f"less logs/stderr'", shell=True, check=True)
 
 
 if __name__ == "__main__":

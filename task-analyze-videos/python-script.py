@@ -1,8 +1,9 @@
 import deeplabcut
+from pathlib import Path
 
 config_path = "automatically filled, do not change"
 
-videos = "/import/kg_nbcws28/bettani/deeplabcut/5_points_tracking_cam_2-sb007-2023-02-28/videos"
+videos = str(Path(config_path).parent / "videos")
 
 deeplabcut.analyze_videos(config_path, videos, save_as_csv=True)
 deeplabcut.filterpredictions(config_path, videos)

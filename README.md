@@ -6,6 +6,7 @@
 - You must have a DLC project 
 - You must have extracted and labeled some frames
 - You must have copied the videos in the DLC project folder (it's a parameter in the *create_project* function)
+- You must have installed ssh 
 - You must have installed rsync 
 - You may have to set up no-password connection to jord and bioclust
 
@@ -31,3 +32,7 @@
 
 ## Problems
 - Sometimes bioclusts likes to kick you from the server, especially if you are not on the same network
+
+## Features to add in a distant future
+- [ ] Put the code in a package
+- [ ] Windows compatibility

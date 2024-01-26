@@ -52,7 +52,7 @@ def list_tasks(script_directory):
 
 def update_local_project(username, local_project_path, remote_project_path):
     print("[*] Updating local project")
-    rsync_command = f"rsync -a --update {username}@{jord_server}:{remote_project_path} {local_project_path} "
+    rsync_command = f"rsync -a --update {username}@{jord_server}:{remote_project_path} {local_project_path.parent} "
     subprocess.run(rsync_command, shell=True, check=True)
 
 def update_remote_project(username, local_project_path, remote_path):

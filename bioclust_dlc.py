@@ -20,7 +20,8 @@ def main(script_directory):
 
     print("\n-----------------------\n")
 
-    remote_project_path = copy_project_to_remote(user, local_project_path, remote_path)
+    remote_project_path = update_remote_project(user, local_project_path, remote_path)
+    update_local_project(user, local_project_path, remote_path)
     modify_dlc_project_path(user, local_project_path, remote_project_path)
     remote_task_path = upload_task(user, remote_project_path, task_path)
     modify_task_project_path(user, remote_project_path, task_path, remote_task_path)
@@ -102,10 +103,14 @@ def list_tasks(script_directory):
         print("Invalid selection. Exiting.")
         return None
 
+def update_local_project(username, local_project_path, remote_path):
+    print("[*] Updating local project")
+    rsync_command = f"rsync -a --update {username}@{jord_server}:{remote_path} {local_project_path} "
+    subprocess.run(rsync_command, shell=True, check=True)
 
-def copy_project_to_remote(username, local_project_path, remote_path):
-    print("[*] Copying dlc project to remote")
-    rsync_command = f"rsync -r --update {local_project_path} {username}@{jord_server}:{remote_path}"
+def update_remote_project(username, local_project_path, remote_path):
+    print("[*] Updating remote project")
+    rsync_command = f"rsync -a --update {local_project_path} {username}@{jord_server}:{remote_path}"
     subprocess.run(rsync_command, shell=True, check=True)
     return Path(remote_path) / local_project_path.name
 

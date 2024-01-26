@@ -21,6 +21,7 @@
 ## Functioning
 #### What will the program do
 - Copy your project on the cluster (with rsync --update, so no overwriting)
+- Update your local projects with the new files created on the cluster (like trained models)
 - Modify the project path of dlc so that it corresponds to the cluster position
 - Change the project path on the python script for the task you selected
 - Submit the task on bioclust (gpu)

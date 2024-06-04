@@ -8,6 +8,15 @@ bioclust_server = "bioclusts01.bioclust.biologie.ens.fr"
 
 def main(script_directory):
     task_path = list_tasks(script_directory)
+    if task_path == "download":
+        user = load_ask_save("Enter your username to connect to jord", script_directory / ".username")
+        local = load_ask_save("Enter the local path of the DLC project", script_directory / ".local_proj")
+        local_project_path = Path(local).resolve()
+        remote = load_ask_save("Enter the working directory on the remote", script_directory / ".remote_proj")
+        remote_path = Path(remote)
+        remote_project_path = update_remote_project(user, local_project_path, remote_path)
+        update_local_project(user, local_project_path, remote_project_path)
+        return
     if not task_path:
         return
 
@@ -28,6 +37,7 @@ def main(script_directory):
     grant_permissions(user, jord_server, remote_task_path)
     clean_logs(user, jord_server, remote_task_path)
     submit_jobs(user, jord_server, bioclust_server, remote_task_path)
+    update_local_project(user, local_project_path, remote_project_path)
 
 def list_tasks(script_directory):
     # List all task directories in the script directory
@@ -39,13 +49,16 @@ def list_tasks(script_directory):
         return None
 
     print("Select a task:")
+    print("0. download data from remote")
     for i, task in enumerate(tasks, 1):
         print(f"{i}. {task.name}")
 
-    selected_index = int(input("Enter the number corresponding to the task: ")) - 1
+    selected_index = int(input("Enter the number corresponding to the task: ")) - 1 
 
     if 0 <= selected_index < len(tasks):
         return tasks[selected_index]
+    if selected_index == -1:
+        return "download"
     else:
         print("Invalid selection. Exiting.")
         return None

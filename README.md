@@ -36,3 +36,4 @@
 ## Features to add in a distant future
 - [ ] Put the code in a package
 - [ ] Windows compatibility
+- [ ] Add a task that just copies files
